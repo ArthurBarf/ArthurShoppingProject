@@ -1,0 +1,23 @@
+//name = name, food = slime's prefered diet, caution = can harm you in a certain situation
+const slimeRanch = [
+  { name: "Pink"+"Slime", food: "all", caution: null}, 
+  { name: "Rock"+"Slime", food: "vegtables", caution: null},
+  { name: "Tabby"+"Slime", food: "meat", caution: null},
+  { name: "Phosphor"+"Slime", food: "fruit", caution: null},
+  { name: "Boom"+"Slime", food: "meat", caution: null},
+  { name: "Crystal"+"Slime", food: "vegtables", caution: null},
+  { name: "Rad"+"Slime", food: "vegtables", caution: null},
+  { name: "Puddle"+"Slime", food: "meat", caution: null},
+  { name: "Honey"+"Slime", food: "fruit", caution: null},
+  { name: "Hunter"+"Slime", food: "meat", caution: null},
+  { name: "Quantum"+"Slime", food: "fruit", caution: null},
+  { name: "Dervish"+"Slime", food: "fruit", caution: null},
+  { name: "Tangle"+"Slime", food: "meat", caution: null},
+  { name: "Mosaic"+"Slime", food: "vegtables", caution: null},
+  { name: "Fire"+"Slime", food: "ashes", caution: null},
+  { name: "Gold"+"Slime", food: "all", caution: null},
+  { name: "Shadow"+"Slime", food: "none", caution: null},
+  { name: "Yolky"+"Slime", food: "egg", caution: null},
+  { name: "Cotton"+"Slime", food: "vegtables", caution: null},
+  { name: "Tarr", food: "Slimes and Humans", caution: null},
+];
